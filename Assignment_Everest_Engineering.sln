@@ -5,7 +5,7 @@ VisualStudioVersion = 18.3.11312.210
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment_Everest_Engineering", "Assignment_Everest_Engineering\Assignment_Everest_Engineering.csproj", "{7B2AD525-8B40-4E57-8318-10AA01F700BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment_Test_Cases", "..\..\Assignment_Everest_Engineering\Assignment_Test_Cases\Assignment_Test_Cases.csproj", "{9CC54E1D-EBA5-222D-C56A-82C7137150D3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_Cases", "Test_Cases\Test_Cases.csproj", "{D7823D1E-A739-412A-9AA2-E0C966C000C2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{7B2AD525-8B40-4E57-8318-10AA01F700BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B2AD525-8B40-4E57-8318-10AA01F700BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B2AD525-8B40-4E57-8318-10AA01F700BE}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9CC54E1D-EBA5-222D-C56A-82C7137150D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9CC54E1D-EBA5-222D-C56A-82C7137150D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9CC54E1D-EBA5-222D-C56A-82C7137150D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9CC54E1D-EBA5-222D-C56A-82C7137150D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7823D1E-A739-412A-9AA2-E0C966C000C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7823D1E-A739-412A-9AA2-E0C966C000C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7823D1E-A739-412A-9AA2-E0C966C000C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7823D1E-A739-412A-9AA2-E0C966C000C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
